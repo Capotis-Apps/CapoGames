@@ -13,7 +13,7 @@
   ·
   <a href="https://capogames.app/download/">Descargar</a>
   ·
-  <a href="https://github.com/TU_USUARIO/CapoGames/releases">Releases</a>
+  <a href="https://github.com/Capotis-Apps/CapoGames/releases">Releases</a>
 </p>
 
 ---
