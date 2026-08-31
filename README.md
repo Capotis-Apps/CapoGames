@@ -81,10 +81,6 @@ https://github.com/Capotis-Apps/CapoGames/releases
   <img src="https://capogames.app/assets/img1.png" width="45%" alt="CapoGames Screenshot">
   <img src="https://capogames.app/assets/img2.png" width="45%" alt="CapoGames Screenshot">
 </p>
-<p align="center">
-  <img src="https://capogames.app/assets/img3.png" width="45%" alt="CapoGames Screenshot">
-  <img src="https://capogames.app/assets/img4.png" width="45%" alt="CapoGames Screenshot">
-</p>
 
 ---
 
